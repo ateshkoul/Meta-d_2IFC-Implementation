@@ -1,3 +1,14 @@
+# Anova for meta-d files from meta_d_obs
+
+
+# ----------------------------
+#  Author : Atesh Koul
+# Italian Institute of technology, Genoa
+# ----------------------------
+
+
+
+
 
 # anova with frontale
 meta_d_frontal <- read.table(file = "clipboard", sep = "\t", header=FALSE)

@@ -1,3 +1,13 @@
+% A specific script
+
+% ----------------------------
+% Author : Atesh Koul
+% Italian Institute of technology, Genoa
+% ----------------------------
+
+
+
+
 % For Frontale :
 for i = 1:numel(a)
     if i ==7

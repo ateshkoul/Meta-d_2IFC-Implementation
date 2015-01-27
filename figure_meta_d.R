@@ -1,3 +1,12 @@
+# Figure for Anova for meta-d files from meta_d_obs
+
+
+# ----------------------------
+#  Author : Atesh Koul
+# Italian Institute of technology, Genoa
+# ----------------------------
+
+
 Data_meta_d <- read.table(file = "clipboard",sep='\t',header = FALSE)
 front_meta_d <- colMeans(Data_meta_d[,seq(1,8)])
 lat_meta_d <- colMeans(Data_meta_d[,seq(9,16)])
